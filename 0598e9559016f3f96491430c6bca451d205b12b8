@@ -1,0 +1,23 @@
+src/index.js
+  dbc17679036be4c2 1045-1046
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "0598e9559016f3f96491430c6bca451d205b12b8",
+  "prompts": {
+    "dbc17679036be4c2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_26b5c0c5bffeQ3ugCa4B8plHzp",
+        "model": "opencode-go/kimi-k2.5"
+      },
+      "human_author": "Kevin",
+      "messages": [],
+      "total_additions": 410,
+      "total_deletions": 410,
+      "accepted_lines": 202,
+      "overriden_lines": 0
+    }
+  }
+}
